@@ -14,3 +14,5 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/BairamovAllaz)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BairamovAllaz)](https://git.io/streak-stats)
