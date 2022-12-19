@@ -1,4 +1,4 @@
-# Hi there, I'm [Bairamov Allaz](https://github.com/BairamovAllaz) ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
+# Hi there, I'm [Bairamov Allaz](https://github.com/BairamovAllaz) 
 ### Love to write software applications 🇷🇺
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Software+Enginner)](https://git.io/typing-svg)
 
