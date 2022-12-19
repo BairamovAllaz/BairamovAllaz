@@ -1,14 +1,2 @@
-- 👋 Hi, I’m @BairamovAllaz
-- 👀 I’m interested in Programing(backend)
-- 🌱 I’m currently learning C#,C++,C,java,go,nodejs
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ellezbayramov2004@gmail.com
-
-<!---
-BairamovAllaz/BairamovAllaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-![mustafacagri's github stats](https://github-readme-stats.vercel.app/api?username=BairamovAllaz&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BairamovAllaz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+# Hi there, I'm [Daniil](https://daniilshat.ru/) ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
+### Computer science student, IT news writer from Russia 🇷🇺
